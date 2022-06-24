@@ -1,0 +1,14 @@
+INSERT INTO Facility2
+VALUES (6, '101');
+
+INSERT INTO Facility2
+VALUES (7, '105');
+
+INSERT INTO Facility2
+VALUES (8, '110');
+
+INSERT INTO Facility2
+VALUES (9, '201');
+
+INSERT INTO Facility2
+VALUES (10, '203');
